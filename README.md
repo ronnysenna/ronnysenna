@@ -7,6 +7,6 @@ Aqui estão algumas coisas sobre mim:
 - 👯 Estou procurando experiência na área de programação.
 - 💬Pergunte-me algo.
 - 📫 Como chegar até mim:.
-- 📩 E-mail : mailto:ronnysenna@yahoo.com
-- ☎ Fone/Whatsapp: https://api.whatsapp.com/send?phone=5585991904540
+- 📩 E-mail :<a href="ronnysenna@yahoo.com">ronnysenna@yahoo.com</a>
+- ☎ Fone/Whatsapp:<a href="https://api.whatsapp.com/send?phone=5585991904540"> (085) 9.9190-4540<a /> 
 
