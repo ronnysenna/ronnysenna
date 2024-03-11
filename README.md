@@ -8,5 +8,6 @@ Aqui estão algumas coisas sobre mim:
 - 💬Pergunte-me algo.
 - 📫 Como chegar até mim:.
 - 📩 E-mail :<a href="ronnysenna@yahoo.com">ronnysenna@yahoo.com</a>
-- ☎ Fone/Whatsapp:<a href="https://api.whatsapp.com/send?phone=5585991904540" target="_blank"> (085) 9.9190-4540<a /> 
+- ☎ Fone/Whatsapp:<a href="https://api.whatsapp.com/send?phone=5585991904540" target="_blank">(85) 9.9190-4540</a>
+
 
